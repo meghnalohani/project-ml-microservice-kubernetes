@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/github/meghnalohani/project-ml-microservice-kubernetes.svg?style=svg&circle-token=6b7475bfdc79263035f45b41ece4cb392326ed54)](<LINK>)
-
-
+[![CircleCI](https://circleci.com/gh/meghnalohani/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/meghnalohani/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
